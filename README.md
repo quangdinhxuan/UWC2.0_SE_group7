@@ -1,1 +1,2 @@
-# UWC2.0_SE_group7
+Urban waste collection aid - UWC 2.
+More infomation later
